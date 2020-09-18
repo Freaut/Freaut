@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+  <a>
+<img src="https://media1.tenor.com/images/ad9d0481c993ca9739d5107ce207c5a2/tenor.gif?itemid=9720855" alt="Avatar" style="border-radius: 70%;">
+  </a><br>
+    Inactive shitposter<br>
+  Bad C# and html / css developer<br>
+  Fulltime student <br>
+  That's really all you need to know<br> 
+</p>
 
-<!--
-**Freaut/Freaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details style='text-align: center;' align='center'>
+  <summary> Information </summary>
+  <p style="text-align: center;"align="center">------------------------------------------------------------</p>
+  <p style="text-align: center;"align="center">Age: 16 </p></a>
+  <p style="text-align: center;"align="center">From: Sweden</p></a>
+  <p style="text-align: center;"align="center">I'm really not that interesting</p></a>
+  <p style="text-align: center;"align="center">------------------------------------------------------------</p>
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details style='text-align: center;' align='center'>
+  <summary>How to reach me</summary>
+  <a href="https://discord.com/users/679057687232774144"><p style="text-align: center;"align="center">Discord</p></a>
+</details>
