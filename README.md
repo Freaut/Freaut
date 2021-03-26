@@ -3,7 +3,7 @@
 <img src="https://media1.tenor.com/images/ad9d0481c993ca9739d5107ce207c5a2/tenor.gif?itemid=9720855" alt="Avatar" style="border-radius: 70%;">
   </a><br>
     Inactive shitposter<br>
-  Bad C# and html / css developer<br>
+  Bad C#, Lua and Python developer<br>
   Fulltime student <br>
   That's really all you need to know<br> 
 </p>
