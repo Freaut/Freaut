@@ -11,7 +11,7 @@
 <details style='text-align: center;' align='center'>
   <summary> Information </summary>
   <p style="text-align: center;"align="center">------------------------------------------------------------</p>
-  <p style="text-align: center;"align="center">Age: 16 </p></a>
+  <p style="text-align: center;"align="center">Age: 17 </p></a>
   <p style="text-align: center;"align="center">From: Sweden</p></a>
   <p style="text-align: center;"align="center">I'm really not that interesting</p></a>
   <p style="text-align: center;"align="center">------------------------------------------------------------</p>
