@@ -5,7 +5,7 @@
     </a><br>
     Fulltime computer science student <br>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freaut)](https://github.com/freaut/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freaut&theme=dracula)](https://github.com/freaut/github-readme-stats)
 
     <h3>Programming Languages & Frameworks I know</h3>
     <ul>
