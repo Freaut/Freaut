@@ -4,9 +4,6 @@
       <a href="https://discord.com/users/1115380701722853376"><p style="text-align: center;"align="center">Discord</p></a>
     </a><br>
     Fulltime computer science student <br>
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freaut&theme=dracula)](https://github.com/freaut/github-readme-stats)
-
     <h3>Programming Languages & Frameworks I know</h3>
     <ul>
         <li>C#</li>
@@ -25,4 +22,7 @@
         <li>Bootstrap</li>
         <li>Blazor</li>
     </ul>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freaut&theme=dracula)](https://github.com/freaut/github-readme-stats)
+
+
 </p>
